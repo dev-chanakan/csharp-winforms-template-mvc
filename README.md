@@ -1,2 +1,2 @@
-# Template C# Windows Form MVC pattern
+# C# Windows Form MVC template
 .net framework 4.5
