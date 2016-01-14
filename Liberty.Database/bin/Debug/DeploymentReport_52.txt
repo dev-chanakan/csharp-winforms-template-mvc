@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Quotations].[ExpiredDate] is being dropped, data loss could occur.
+
+** User actions
+     Rename
+       [dbo].[Quotations].[CreatedByUserCode] (Column)
+     Alter
+       [dbo].[Quotations] (Table)
+
+** Supporting actions
+
+The column [dbo].[Quotations].[ExpiredDate] is being dropped, data loss could occur.
+The project and target databases have different collation settings. Deployment errors might occur.
+

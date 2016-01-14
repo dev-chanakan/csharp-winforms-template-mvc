@@ -1,0 +1,14 @@
+C:\Users\Chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\bin\Release\Liberty.Database.dacpac
+C:\Users\Chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\bin\Release\Liberty.Database.dll
+C:\Users\Chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\bin\Release\Liberty.Database.pdb
+C:\Users\Chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\obj\Release\Model.xml
+C:\Users\Chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\obj\Release\refactor.xml
+C:\Users\Chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\obj\Release\postdeploy.sql
+C:\Users\Chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\obj\Release\predeploy.sql
+C:\Users\Chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\obj\Release\Liberty.Database.dll
+C:\Users\Chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\obj\Release\Liberty.Database.pdb
+C:\Users\d_chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\bin\Release\Liberty.Database.dacpac
+C:\Users\d_chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\bin\Release\Liberty.Database.dll
+C:\Users\d_chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\bin\Release\Liberty.Database.pdb
+C:\Users\d_chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\obj\Release\Liberty.Database.dll
+C:\Users\d_chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\obj\Release\Liberty.Database.pdb

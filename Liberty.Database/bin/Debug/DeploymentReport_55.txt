@@ -1,0 +1,29 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       [dbo].[FK_Employees_Departments] (Foreign Key)
+       [dbo].[FK_Products_Brands] (Foreign Key)
+       [dbo].[FK_Products_ProductTypes] (Foreign Key)
+     Alter
+       [dbo].[Employees] (Table)
+     Create
+       [dbo].[Customers] (Table)
+       [dbo].[QuotationItems] (Table)
+       [dbo].[Quotations] (Table)
+       [dbo].[FK_QuotationItems_ToQuotations] (Foreign Key)
+       [dbo].[FK_Quotations_ToCustomers] (Foreign Key)
+       [dbo].[FK_Quotations_ToEmployees] (Foreign Key)
+       [dbo].[FK_Employees_ToDepartments] (Foreign Key)
+       [dbo].[FK_Products_ToBrands] (Foreign Key)
+       [dbo].[FK_Products_ToProductTypes] (Foreign Key)
+
+** Supporting actions

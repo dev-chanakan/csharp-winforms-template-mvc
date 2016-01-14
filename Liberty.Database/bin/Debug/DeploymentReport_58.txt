@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[QuotationItems]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Rename
+       [dbo].[QuotationItems].[ImagePath] (Column)
+     Table rebuild
+       [dbo].[QuotationItems] (Table)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_QuotationItems_ToQuotations] (Foreign Key)
+     Create
+       [dbo].[FK_QuotationItems_ToQuotations] (Foreign Key)

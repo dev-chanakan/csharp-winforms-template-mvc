@@ -1,0 +1,158 @@
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.csprojResolveAssemblyReference.cache
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.AccountLogOnView.resources
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.Properties.Resources.resources
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.csproj.GenerateResource.Cache
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\bin\Debug\Liberty.UI.Views.exe.config
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\bin\Debug\Liberty.UI.Views.exe
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\bin\Debug\Liberty.UI.Views.pdb
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Controllers.dll
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Infrastructure.dll
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Models.dll
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Controllers.pdb
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Infrastructure.pdb
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Models.pdb
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.exe
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.pdb
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Repository.NHibernate.dll
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Services.dll
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\bin\Debug\NHibernate.dll
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\bin\Debug\Iesi.Collections.dll
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Repository.NHibernate.pdb
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Services.pdb
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\bin\Debug\NHibernate.xml
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.UI.Views\bin\Debug\Iesi.Collections.xml
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.csprojResolveAssemblyReference.cache
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.AccountLogOnView.resources
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.Properties.Resources.resources
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.csproj.GenerateResource.Cache
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Liberty.UI.Views.exe.config
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Liberty.UI.Views.exe
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Liberty.UI.Views.pdb
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Controllers.dll
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Infrastructure.dll
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Models.dll
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Repository.NHibernate.dll
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Services.dll
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\NHibernate.dll
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Iesi.Collections.dll
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Controllers.pdb
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Infrastructure.pdb
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Models.pdb
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Repository.NHibernate.pdb
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Services.pdb
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\NHibernate.xml
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Iesi.Collections.xml
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.exe
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.pdb
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.csprojResolveAssemblyReference.cache
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.AccountLogOnView.resources
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.Properties.Resources.resources
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.csproj.GenerateResource.Cache
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Liberty.UI.Views.exe.config
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Liberty.UI.Views.exe
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Liberty.UI.Views.pdb
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Controllers.dll
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Infrastructure.dll
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Models.dll
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Services.dll
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Controllers.pdb
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Infrastructure.pdb
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Models.pdb
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Services.pdb
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.exe
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.pdb
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Repository.NHibernate.dll
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\NHibernate.dll
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Iesi.Collections.dll
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Repository.NHibernate.pdb
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\NHibernate.xml
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\bin\Debug\Iesi.Collections.xml
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.exe.licenses
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.exe.licenses
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.HomeView.resources
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.HomeView.resources
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.EmployeeView.resources
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\bin\Debug\Liberty.UI.Views.exe.config
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.exe
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.pdb
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\bin\Debug\Liberty.UI.Views.exe
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\bin\Debug\Liberty.UI.Views.pdb
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Controllers.dll
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Infrastructure.dll
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Models.dll
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Repository.NHibernate.dll
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Services.dll
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.dll
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\bin\Debug\NHibernate.dll
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\bin\Debug\Iesi.Collections.dll
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Controllers.pdb
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Infrastructure.pdb
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Models.pdb
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Repository.NHibernate.pdb
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\bin\Debug\Liberty.Services.pdb
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.xml
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\bin\Debug\NHibernate.xml
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\bin\Debug\Iesi.Collections.xml
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.csprojResolveAssemblyReference.cache
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.AccountLogOnView.resources
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.EmployeeView.resources
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.HomeView.resources
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.Properties.Resources.resources
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.csproj.GenerateResource.Cache
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.exe.licenses
+G:\Projects\C# WindowForm Template\Liberty\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.UserRegisterView.resources
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\bin\Debug\Liberty.UI.Views.exe.config
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.exe
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.pdb
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\bin\Debug\Liberty.UI.Views.exe
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\bin\Debug\Liberty.UI.Views.pdb
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\bin\Debug\Liberty.Controllers.dll
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\bin\Debug\Liberty.Infrastructure.dll
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\bin\Debug\Liberty.Models.dll
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\bin\Debug\Liberty.Repository.NHibernate.dll
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\bin\Debug\Liberty.Services.dll
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\bin\Debug\NHibernate.dll
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\bin\Debug\Iesi.Collections.dll
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\bin\Debug\Liberty.Controllers.pdb
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\bin\Debug\Liberty.Infrastructure.pdb
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\bin\Debug\Liberty.Models.pdb
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\bin\Debug\Liberty.Repository.NHibernate.pdb
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\bin\Debug\Liberty.Services.pdb
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\bin\Debug\NHibernate.xml
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\bin\Debug\Iesi.Collections.xml
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.csprojResolveAssemblyReference.cache
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.AccountLogOnView.resources
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.EmployeeView.resources
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.HomeView.resources
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.Properties.Resources.resources
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.UserRegisterView.resources
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.csproj.GenerateResource.Cache
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.UI.Views\obj\Debug\Liberty.UI.Views.exe.licenses

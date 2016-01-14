@@ -1,0 +1,50 @@
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Database\bin\Debug\Liberty.Database.dacpac
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Database\bin\Debug\Liberty.Database.dll
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Database\bin\Debug\Liberty.Database.pdb
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Database\obj\Debug\Model.xml
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Database\obj\Debug\refactor.xml
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Database\obj\Debug\postdeploy.sql
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Database\obj\Debug\predeploy.sql
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Database\obj\Debug\Liberty.Database.dll
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Database\obj\Debug\Liberty.Database.pdb
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Database\bin\Debug\Liberty.Database.dacpac
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Database\bin\Debug\Liberty.Database.dll
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Database\bin\Debug\Liberty.Database.pdb
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Database\obj\Debug\Liberty.Database.dll
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Database\obj\Debug\Liberty.Database.pdb
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Database\obj\Debug\Model.xml
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Database\obj\Debug\refactor.xml
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Database\obj\Debug\postdeploy.sql
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Database\obj\Debug\predeploy.sql
+G:\Projects\Liberty (LiliaQT new version)\Liberty\Liberty.Database\bin\Debug\Liberty.Database.dacpac
+G:\Projects\Liberty (LiliaQT new version)\Liberty\Liberty.Database\bin\Debug\Liberty.Database.dll
+G:\Projects\Liberty (LiliaQT new version)\Liberty\Liberty.Database\bin\Debug\Liberty.Database.pdb
+G:\Projects\Liberty (LiliaQT new version)\Liberty\Liberty.Database\obj\Debug\Model.xml
+G:\Projects\Liberty (LiliaQT new version)\Liberty\Liberty.Database\obj\Debug\refactor.xml
+G:\Projects\Liberty (LiliaQT new version)\Liberty\Liberty.Database\obj\Debug\postdeploy.sql
+G:\Projects\Liberty (LiliaQT new version)\Liberty\Liberty.Database\obj\Debug\predeploy.sql
+G:\Projects\Liberty (LiliaQT new version)\Liberty\Liberty.Database\obj\Debug\Liberty.Database.dll
+G:\Projects\Liberty (LiliaQT new version)\Liberty\Liberty.Database\obj\Debug\Liberty.Database.pdb
+C:\Users\d_chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\bin\Debug\Liberty.Database.dacpac
+C:\Users\d_chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\bin\Debug\Liberty.Database.dll
+C:\Users\d_chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\bin\Debug\Liberty.Database.pdb
+C:\Users\d_chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\obj\Debug\Liberty.Database.dll
+C:\Users\d_chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\obj\Debug\Liberty.Database.pdb
+C:\Users\Chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\bin\Debug\Liberty.Database.dacpac
+C:\Users\Chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\bin\Debug\Liberty.Database.dll
+C:\Users\Chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\bin\Debug\Liberty.Database.pdb
+C:\Users\Chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\obj\Debug\Model.xml
+C:\Users\Chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\obj\Debug\refactor.xml
+C:\Users\Chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\obj\Debug\postdeploy.sql
+C:\Users\Chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\obj\Debug\predeploy.sql
+C:\Users\Chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\obj\Debug\Liberty.Database.dll
+C:\Users\Chanakan\Dropbox\Kan\Liberty 0.0.1\Liberty.Database\obj\Debug\Liberty.Database.pdb
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Database\bin\Debug\Liberty.Database.dacpac
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Database\bin\Debug\Liberty.Database.dll
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Database\bin\Debug\Liberty.Database.pdb
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Database\obj\Debug\Model.xml
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Database\obj\Debug\refactor.xml
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Database\obj\Debug\postdeploy.sql
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Database\obj\Debug\predeploy.sql
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Database\obj\Debug\Liberty.Database.dll
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Database\obj\Debug\Liberty.Database.pdb

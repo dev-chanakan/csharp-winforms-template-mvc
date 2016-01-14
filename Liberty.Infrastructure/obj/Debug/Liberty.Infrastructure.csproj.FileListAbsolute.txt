@@ -1,0 +1,21 @@
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.Infrastructure\bin\Debug\Liberty.Infrastructure.dll
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.Infrastructure\bin\Debug\Liberty.Infrastructure.pdb
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.Infrastructure\obj\Debug\Liberty.Infrastructure.dll
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.Infrastructure\obj\Debug\Liberty.Infrastructure.pdb
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Infrastructure\bin\Debug\Liberty.Infrastructure.dll
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Infrastructure\bin\Debug\Liberty.Infrastructure.pdb
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Infrastructure\obj\Debug\Liberty.Infrastructure.dll
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Infrastructure\obj\Debug\Liberty.Infrastructure.pdb
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Infrastructure\bin\Debug\Liberty.Infrastructure.dll
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Infrastructure\bin\Debug\Liberty.Infrastructure.pdb
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Infrastructure\obj\Debug\Liberty.Infrastructure.dll
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Infrastructure\obj\Debug\Liberty.Infrastructure.pdb
+G:\Projects\C# WindowForm Template\Liberty\Liberty.Infrastructure\bin\Debug\Liberty.Infrastructure.dll
+G:\Projects\C# WindowForm Template\Liberty\Liberty.Infrastructure\bin\Debug\Liberty.Infrastructure.pdb
+G:\Projects\C# WindowForm Template\Liberty\Liberty.Infrastructure\obj\Debug\Liberty.Infrastructure.dll
+G:\Projects\C# WindowForm Template\Liberty\Liberty.Infrastructure\obj\Debug\Liberty.Infrastructure.pdb
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Infrastructure\bin\Debug\Liberty.Infrastructure.dll
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Infrastructure\bin\Debug\Liberty.Infrastructure.pdb
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Infrastructure\obj\Debug\Liberty.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Infrastructure\obj\Debug\Liberty.Infrastructure.dll
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Infrastructure\obj\Debug\Liberty.Infrastructure.pdb

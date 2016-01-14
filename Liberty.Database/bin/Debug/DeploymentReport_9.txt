@@ -1,0 +1,26 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Users]
+       [dbo].[Employees]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Table rebuild
+       [dbo].[Users] (Table)
+       [dbo].[Employees] (Table)
+     Create
+       [dbo].[Roles] (Table)
+       [dbo].[UsersInRoles] (Table)
+       [dbo].[FK_UsersInRoles_ToRoles] (Foreign Key)
+       [dbo].[FK_UsersInRoles_ToUsers] (Foreign Key)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_Employees_Departments] (Foreign Key)
+     Create
+       [dbo].[FK_Employees_Departments] (Foreign Key)

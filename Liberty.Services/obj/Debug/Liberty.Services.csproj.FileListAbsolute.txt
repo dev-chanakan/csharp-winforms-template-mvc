@@ -1,0 +1,64 @@
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.Services\bin\Debug\Liberty.Services.dll
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.Services\bin\Debug\Liberty.Services.pdb
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.Services\obj\Debug\Liberty.Services.dll
+C:\Users\Chanakan\Desktop\Finder\Kan's Projects\Liberty\Liberty.Services\obj\Debug\Liberty.Services.pdb
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Services\bin\Debug\Liberty.Services.dll
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Services\bin\Debug\Liberty.Services.pdb
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Services\bin\Debug\Liberty.Infrastructure.dll
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Services\bin\Debug\Liberty.Models.dll
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Services\bin\Debug\Liberty.Repository.NHibernate.dll
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Services\bin\Debug\NHibernate.dll
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Services\bin\Debug\Iesi.Collections.dll
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Services\bin\Debug\Liberty.Infrastructure.pdb
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Services\bin\Debug\Liberty.Models.pdb
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Services\bin\Debug\Liberty.Repository.NHibernate.pdb
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Services\bin\Debug\NHibernate.xml
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Services\bin\Debug\Iesi.Collections.xml
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Services\obj\Debug\Liberty.Services.csprojResolveAssemblyReference.cache
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Services\obj\Debug\Liberty.Services.dll
+C:\Users\d_chanakan\Dropbox\Kan\Liberty\Liberty.Services\obj\Debug\Liberty.Services.pdb
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Services\bin\Debug\Liberty.Services.dll
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Services\bin\Debug\Liberty.Services.pdb
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Services\bin\Debug\Liberty.Infrastructure.dll
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Services\bin\Debug\Liberty.Models.dll
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Services\bin\Debug\Liberty.Repository.NHibernate.dll
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Services\bin\Debug\NHibernate.dll
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Services\bin\Debug\Iesi.Collections.dll
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Services\bin\Debug\Liberty.Infrastructure.pdb
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Services\bin\Debug\Liberty.Models.pdb
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Services\bin\Debug\Liberty.Repository.NHibernate.pdb
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Services\bin\Debug\NHibernate.xml
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Services\bin\Debug\Iesi.Collections.xml
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Services\obj\Debug\Liberty.Services.csprojResolveAssemblyReference.cache
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Services\obj\Debug\Liberty.Services.dll
+C:\Users\Chanakan\Dropbox\Kan\Liberty\Liberty.Services\obj\Debug\Liberty.Services.pdb
+G:\Projects\C# WindowForm Template\Liberty\Liberty.Services\bin\Debug\Liberty.Services.dll
+G:\Projects\C# WindowForm Template\Liberty\Liberty.Services\bin\Debug\Liberty.Services.pdb
+G:\Projects\C# WindowForm Template\Liberty\Liberty.Services\bin\Debug\Liberty.Infrastructure.dll
+G:\Projects\C# WindowForm Template\Liberty\Liberty.Services\bin\Debug\Liberty.Models.dll
+G:\Projects\C# WindowForm Template\Liberty\Liberty.Services\bin\Debug\Liberty.Repository.NHibernate.dll
+G:\Projects\C# WindowForm Template\Liberty\Liberty.Services\bin\Debug\NHibernate.dll
+G:\Projects\C# WindowForm Template\Liberty\Liberty.Services\bin\Debug\Iesi.Collections.dll
+G:\Projects\C# WindowForm Template\Liberty\Liberty.Services\bin\Debug\Liberty.Infrastructure.pdb
+G:\Projects\C# WindowForm Template\Liberty\Liberty.Services\bin\Debug\Liberty.Models.pdb
+G:\Projects\C# WindowForm Template\Liberty\Liberty.Services\bin\Debug\Liberty.Repository.NHibernate.pdb
+G:\Projects\C# WindowForm Template\Liberty\Liberty.Services\bin\Debug\NHibernate.xml
+G:\Projects\C# WindowForm Template\Liberty\Liberty.Services\bin\Debug\Iesi.Collections.xml
+G:\Projects\C# WindowForm Template\Liberty\Liberty.Services\obj\Debug\Liberty.Services.csprojResolveAssemblyReference.cache
+G:\Projects\C# WindowForm Template\Liberty\Liberty.Services\obj\Debug\Liberty.Services.dll
+G:\Projects\C# WindowForm Template\Liberty\Liberty.Services\obj\Debug\Liberty.Services.pdb
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Services\bin\Debug\Liberty.Services.dll
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Services\bin\Debug\Liberty.Services.pdb
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Services\bin\Debug\Liberty.Infrastructure.dll
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Services\bin\Debug\Liberty.Models.dll
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Services\bin\Debug\Liberty.Repository.NHibernate.dll
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Services\bin\Debug\NHibernate.dll
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Services\bin\Debug\Iesi.Collections.dll
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Services\bin\Debug\Liberty.Infrastructure.pdb
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Services\bin\Debug\Liberty.Models.pdb
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Services\bin\Debug\Liberty.Repository.NHibernate.pdb
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Services\bin\Debug\NHibernate.xml
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Services\bin\Debug\Iesi.Collections.xml
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Services\obj\Debug\Liberty.Services.csprojResolveAssemblyReference.cache
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Services\obj\Debug\Liberty.Services.dll
+D:\Projects\C# WindowForm Template\Liberty #1\Liberty.Services\obj\Debug\Liberty.Services.pdb

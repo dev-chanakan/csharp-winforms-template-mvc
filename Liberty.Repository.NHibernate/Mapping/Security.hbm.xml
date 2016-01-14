@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping
+	xmlns="urn:nhibernate-mapping-2.2"
+	namespace="Liberty.Models.Users"
+	assembly="Liberty.Models">
+
+  <class name="User" table="Users">
+    <id name="Id">
+      <generator class="guid"></generator>
+    </id>
+
+    <property name="Username" not-null="true"></property>
+    <property name="Password" not-null="true"></property>
+    <property name="LastLogin"></property>
+    <property name="DisplayName" not-null="true"></property>
+    <property name="FirstName" not-null="true"></property>
+    <property name="LastName" not-null="true"></property>
+  </class>
+
+</hibernate-mapping>

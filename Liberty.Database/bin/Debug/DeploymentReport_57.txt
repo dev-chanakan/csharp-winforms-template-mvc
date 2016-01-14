@@ -1,0 +1,27 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[QuotationItems]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Rename
+       [dbo].[QuotationItems].[ImagePath] (Column)
+     Alter
+       [dbo].[Products] (Table)
+       [dbo].[Quotations] (Table)
+     Table rebuild
+       [dbo].[QuotationItems] (Table)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_QuotationItems_ToQuotations] (Foreign Key)
+     Create
+       [dbo].[FK_QuotationItems_ToQuotations] (Foreign Key)
+
+The project and target databases have different collation settings. Deployment errors might occur.
+
